@@ -1,8 +1,8 @@
 # MSCognitiveServices_FaceAPI
 Face API を試してみました。
 
-use anaconda.
+■ Javascript 
 
-Installed "cognitive_face"
-
-Installed "cv2"
+■ Python 
+use anaconda. 
+Installed "cognitive_face", "cv2" 
